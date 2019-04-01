@@ -1,0 +1,64 @@
+.wrapper {
+	background-color: #292929;
+}
+.navbar, navbar-default, navbar-fixed {
+	background-color: #292929;
+}
+.nav, navbar-nav, navbar-right {
+	color: #fff;
+}
+.CodeMirror, cm-s-default {
+	background-color: #fff;
+}
+.CodeMirror-gutter, CodeMirror-linenumbers {
+	background-color: #535353;
+}
+.sidebar-wrapper {
+	background-color: #9C292A;
+}
+.card {
+	background-color: #fff;
+}
+.container-fluid {
+	background-color: #202020;
+}
+.form-group {
+	color: #fff;
+}
+.navbar-header {
+	color: #fff;
+}
+.card {
+	background-color: #292929;
+}
+.header > .title{
+	color: #ffffff;
+}
+.card > .content, table-responsive {
+	color: #ffffff;
+}
+td {
+	background-color: #292929;
+	color: #fff;
+}
+.col-md-3 > .description  {
+	color: #fff;
+}
+.overlay-user-container {
+	background-color: #292929;
+}
+body, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, .btn-simple, .alert, a, .td-name, td, button.close {
+	color: white;
+}
+.author > .title {
+	color: #fff;
+}
+.author > .description {
+	color: #fff;
+}
+.container-fluid > .navbar-brand {
+	color: white;
+}
+.themeauthor::after {
+	content: "Rick Martinez (Owner)";
+}
